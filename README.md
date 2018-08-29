@@ -1,6 +1,11 @@
 # JumpingCat
 
-![image](https://image.ibb.co/f7vq3U/screenshoot.png)
+![](https://i.imgur.8com/oapRAhj.png)
 
-
+## ルール
+***
 sss
+
+
+## 操作方法
+***
