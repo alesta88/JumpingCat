@@ -1,0 +1,13 @@
+{
+"companyName": "Alesta",
+"productName": "CatJumpGame",
+"dataUrl": "JG.data.unityweb",
+"asmCodeUrl": "JG.asm.code.unityweb",
+"asmMemoryUrl": "JG.asm.memory.unityweb",
+"asmFrameworkUrl": "JG.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
