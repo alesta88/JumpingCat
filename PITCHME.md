@@ -30,13 +30,13 @@
 
 +++
 
-## 操作方法
+## @color[#993d00](操作方法)
 ***
 ジャンプは自動で行われる、矢印キーでそれぞれ左右に移動します。  
 
 +++
 
-## アセット
+## @color[#993d00](アセット)
 ***
 
 - [Unity Technologies. TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
@@ -46,7 +46,7 @@
 
 +++
 
-## やりたいこと
+## @color[#993d00](やりたいこと)
 ***
 
 - HP
