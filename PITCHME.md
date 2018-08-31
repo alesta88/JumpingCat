@@ -1,6 +1,7 @@
 # Jumping Cat
 
-![](https://i.imgur.com/Rhyh7xe.png) ![](https://i.imgur.com/WoL3rdH.png)  
+<img src="https://i.imgur.com/Rhyh7xe.png" width="200" />
+<img src="https://i.imgur.com/WoL3rdH.png" width="200" />
 
 [GAME LINK](https://alesta88.github.io/JumpingCat/)  
 
@@ -16,13 +17,13 @@
 
 ## ルール (2)
 ***
-![](https://i.imgur.com/yK73Cj9.png)  **シンプルプラットフォーム**   
+<img src="https://i.imgur.com/yK73Cj9.png" width="100" />  **シンプルプラットフォーム**   
 
-![](https://i.imgur.com/KJISbJy.png)  **ダブルジャンププラットフォーム**   
+<img src="https://i.imgur.com/KJISbJy.png" width="100" />  **ダブルジャンププラットフォーム**   
 
-![](https://i.imgur.com/5wcWHn9.png)  **ダメージを与えるプラットフォーム** 一回当たったらしにます。  
+<img src="https://i.imgur.com/5wcWHn9.png" width="100" />  **ダメージを与えるプラットフォーム** 一回当たったらしにます。  
 
-![](https://i.imgur.com/c6fCuF9.png)  **消えるプラットフォーム**   一回当たったらプラットフォームがきえます。
+<img src="https://i.imgur.com/c6fCuF9.png" width="100" />  **消えるプラットフォーム**   一回当たったらプラットフォームがきえます。
 
 
 +++
